@@ -118,11 +118,11 @@ Mis sistemas no viven en demos: **cruzan del software al mundo físico** — vis
 
 ## Experiencia
 
-> **`2018 — Presente`** · **VARAC** · *Puebla, MX*  
+> **`2018 — Presente`** · **VARAC** · *Remoto*  
 > **Fundador y CEO**  
 > Firma de eficiencia operacional impulsada por IA: consultoría estratégica, business intelligence, agentes de IA, gemelos digitales y AI as a Service para clientes de los sectores ambiental, energético, agro e industrial.
 
-> **`2023 — Presente`** · **AIGIS PRO** · *Puebla, MX*  
+> **`2023 — Presente`** · **AIGIS PRO** · *Remoto*  
 > **Fundador**  
 > Plataforma de análisis geoespacial impulsada por LLMs — preguntas en lenguaje natural convertidas en mapas, capas y análisis territoriales. En uso con clientes reales de consultoría ambiental y energética.
 

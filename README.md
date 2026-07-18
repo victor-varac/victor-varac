@@ -3,18 +3,18 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-      <img width="1584" alt="Víctor Varela Carranza — Ingeniero Ambiental · Desarrollador de IA · CEO de VARAC" src="assets/banner-dark.svg">
+      <img width="1584" alt="Víctor Varac — Ingeniero Ambiental · Desarrollador de IA · CEO de VARAC" src="assets/banner-dark.svg">
     </picture>
   </a>
 </p>
 
 <div align="center">
 
-# Víctor Varela Carranza
+# Víctor Varac
 
 ### Ingeniero Ambiental · Desarrollador de IA · CEO de VARAC
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=20&pause=1200&color=3FB950&center=true&vCenter=true&width=640&lines=Convierto+preguntas+en+mapas;IA+ambiental+en+producci%C3%B3n%2C+no+en+demo;AI-native%3A+agentes+end-to-end+con+gobernanza;Fundador+de+VARAC+%C2%B7+AIGIS+PRO" alt="Víctor Varela Carranza — IA ambiental y geoespacial" />
+<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=20&pause=1200&color=3FB950&center=true&vCenter=true&width=640&lines=Convierto+preguntas+en+mapas;IA+ambiental+en+producci%C3%B3n%2C+no+en+demo;AI-native%3A+agentes+end-to-end+con+gobernanza;Fundador+de+VARAC+%C2%B7+AIGIS+PRO" alt="Víctor Varac — IA ambiental y geoespacial" />
 
 <br/>
 
@@ -243,7 +243,7 @@ Mis sistemas no viven en demos: **cruzan del software al mundo físico** — vis
 
 <div align="center">
 
-### Víctor Varela Carranza
+### Víctor Varac
 
 ### Environmental Engineer · AI Developer · CEO at VARAC
 
